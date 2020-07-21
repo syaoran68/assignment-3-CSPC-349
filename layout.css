@@ -1,0 +1,188 @@
+/* Add layouts here */
+
+/* Layout 1 */
+/* Add site styles here */
+/* h1 {
+  color: orange;
+  font-family: "Helvetica";
+  text-align: center;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+.title {
+  text-align: center;
+}
+.background {
+  background-color: #f7e2e2;
+  display: flex;
+}
+.test {
+  size: 30pt;
+  color: orange;
+}
+.articles {
+  overflow: scroll;
+  height: 90vh;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.description {
+  color: #dd0000;
+  text-align: center;
+}
+article {
+  background-color: #f7e2e2;
+  color: #dd0000;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  height: 100%;
+  width: 100%;
+}
+li {
+  float: left;
+  margin: 0px 20px 0px 20px;
+}
+.other-sites {
+  display: flex;
+  justify-content: center;
+  background-color: #f7e2e2;
+} */
+
+/* Layout 2 */
+/* h1 {
+  color: orange;
+  font-family: "Helvetica";
+  text-align: center;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+.title {
+  text-align: center;
+}
+.background {
+  background-color: #f7e2e2;
+  display: flex;
+}
+.test {
+  size: 30pt;
+  color: orange;
+}
+.articles {
+  overflow: scroll;
+  height: 90vh;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.description {
+  color: #dd0000;
+  text-align: center;
+}
+article {
+  background-color: #f7e2e2;
+  color: #dd0000;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  height: 100%;
+  width: 100%;
+}
+
+.other-sites {
+  display: flex;
+  justify-content: center;
+  background-color: #f7e2e2;
+  padding: 50px;
+} */
+/* Layout 3 */
+/* h1 {
+  color: orange;
+  font-family: "Helvetica";
+  text-align: center;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: #f7e2e2;
+}
+.background {
+  order: 3;
+}
+footer {
+  order: 2;
+}
+.other-sites {
+  order: 3;
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+  color: orange;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+.title {
+  order: 1;
+  text-align: center;
+} */
+
+/* Layout 4 */
+
+/* h1 {
+  color: orange;
+  font-family: "Helvetica";
+  text-align: center;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.title {
+  text-align: center;
+}
+
+.background {
+  background-color: #f7e2e2;
+  display: flex;
+}
+
+li {
+  float: left;
+  margin: 0px 20px 0px 20px;
+}
+
+.other-sites {
+  display: flex;
+  justify-content: center;
+  background-color: #f7e2e2;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 1500px;
+}
+
+.description {
+  text-align: center;
+}
+
+article p:nth-child(3) {
+  font-size: x-large;
+}
+
+.articles {
+  overflow: scroll;
+  height: 90vh;
+  align-content: center;
+  display: flex;
+  flex-direction: column;
+} */
+body {
+  background-image: url("../_site/images/background.jpg");
+}
